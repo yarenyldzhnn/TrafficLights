@@ -1,6 +1,8 @@
-package controller;
+package com.example.trafficlightsgroup75.controller;
 
-import model.*;
+import com.example.trafficlightsgroup75.model.Direction;
+import com.example.trafficlightsgroup75.model.SignalTiming;
+import com.example.trafficlightsgroup75.model.TrafficDensity;
 
 public class TrafficController {
     private final TrafficDensity density;

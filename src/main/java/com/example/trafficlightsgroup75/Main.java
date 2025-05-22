@@ -4,9 +4,9 @@ import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import controller.TrafficController;
-import view.ControlPanel;
-import view.IntersectionView;
+import com.example.trafficlightsgroup75.controller.TrafficController;
+import com.example.trafficlightsgroup75.view.ControlPanel;
+import com.example.trafficlightsgroup75.view.IntersectionView;
 
 public class Main extends Application {
 

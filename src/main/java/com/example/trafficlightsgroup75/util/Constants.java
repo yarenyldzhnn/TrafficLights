@@ -1,4 +1,4 @@
-package util;
+package com.example.trafficlightsgroup75.util;
 
 public final class Constants {
     public static final int MAX_GREEN_TIME = 30;

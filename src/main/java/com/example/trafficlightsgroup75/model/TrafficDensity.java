@@ -1,8 +1,8 @@
-package model;
+package com.example.trafficlightsgroup75.model;
 import java.util.EnumMap;
 
 public class TrafficDensity {
-    private EnumMap<model.Direction, Integer> densityMap;
+    private EnumMap<Direction, Integer> densityMap;
 
     public TrafficDensity() {
         densityMap = new EnumMap<>(Direction.class);

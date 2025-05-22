@@ -1,4 +1,4 @@
-package view;
+package com.example.trafficlightsgroup75.view;
 
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;

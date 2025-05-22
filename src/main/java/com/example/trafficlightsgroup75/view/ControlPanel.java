@@ -1,4 +1,4 @@
-package view;
+package com.example.trafficlightsgroup75.view;
 
 import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;

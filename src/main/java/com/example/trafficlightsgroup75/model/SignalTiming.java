@@ -1,4 +1,4 @@
-package model;
+package com.example.trafficlightsgroup75.model;
 
 import java.util.EnumMap;
 

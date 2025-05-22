@@ -1,7 +1,7 @@
-package model;
+package com.example.trafficlightsgroup75.model;
 
 public class Vehicle {
-    private model.Direction direction;
+    private Direction direction;
 
     public Vehicle(Direction direction) {
         this.direction = direction;

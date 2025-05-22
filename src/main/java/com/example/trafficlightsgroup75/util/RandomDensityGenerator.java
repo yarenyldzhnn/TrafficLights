@@ -1,6 +1,6 @@
-package util;
+package com.example.trafficlightsgroup75.util;
 
-import model.Direction;
+import com.example.trafficlightsgroup75.model.Direction;
 
 import java.util.EnumMap;
 import java.util.Random;
